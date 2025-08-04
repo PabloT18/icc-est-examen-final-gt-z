@@ -104,4 +104,4 @@ javac --release 17 -cp "lib/*" -d bin src/validaciones/ValidacionesMaquina.java 
 jar cf lib/validadores-evaluacion.jar -C bin validaciones -C bin models
 jar tf lib/validadores-evaluacion.jar
 
-UPDATE
+UPDATE des docker lab 5
